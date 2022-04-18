@@ -1,0 +1,5 @@
+@counter-style repeating-emoji {
+    system: cyclic;
+    symbols: "\1F44D" "\270D" "\1F64C";
+    suffix: " "
+}
